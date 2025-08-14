@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Desktop\httpsgithub.comdavidasare2Define-a-Generic-Repository-for-Entity-Management.git\bin\Debug\net8.0\HealthcareSystem.exe
+C:\Users\Admin\OneDrive\Documents\Desktop\httpsgithub.comdavidasare2Define-a-Generic-Repository-for-Entity-Management.git\bin\Debug\net8.0\HealthcareSystem.deps.json
+C:\Users\Admin\OneDrive\Documents\Desktop\httpsgithub.comdavidasare2Define-a-Generic-Repository-for-Entity-Management.git\bin\Debug\net8.0\HealthcareSystem.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Desktop\httpsgithub.comdavidasare2Define-a-Generic-Repository-for-Entity-Management.git\bin\Debug\net8.0\HealthcareSystem.dll
+C:\Users\Admin\OneDrive\Documents\Desktop\httpsgithub.comdavidasare2Define-a-Generic-Repository-for-Entity-Management.git\bin\Debug\net8.0\HealthcareSystem.pdb
+C:\Users\Admin\OneDrive\Documents\Desktop\httpsgithub.comdavidasare2Define-a-Generic-Repository-for-Entity-Management.git\obj\Debug\net8.0\HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Desktop\httpsgithub.comdavidasare2Define-a-Generic-Repository-for-Entity-Management.git\obj\Debug\net8.0\HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Desktop\httpsgithub.comdavidasare2Define-a-Generic-Repository-for-Entity-Management.git\obj\Debug\net8.0\HealthcareSystem.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Desktop\httpsgithub.comdavidasare2Define-a-Generic-Repository-for-Entity-Management.git\obj\Debug\net8.0\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Desktop\httpsgithub.comdavidasare2Define-a-Generic-Repository-for-Entity-Management.git\obj\Debug\net8.0\HealthcareSystem.dll
+C:\Users\Admin\OneDrive\Documents\Desktop\httpsgithub.comdavidasare2Define-a-Generic-Repository-for-Entity-Management.git\obj\Debug\net8.0\refint\HealthcareSystem.dll
+C:\Users\Admin\OneDrive\Documents\Desktop\httpsgithub.comdavidasare2Define-a-Generic-Repository-for-Entity-Management.git\obj\Debug\net8.0\HealthcareSystem.pdb
+C:\Users\Admin\OneDrive\Documents\Desktop\httpsgithub.comdavidasare2Define-a-Generic-Repository-for-Entity-Management.git\obj\Debug\net8.0\HealthcareSystem.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Desktop\httpsgithub.comdavidasare2Define-a-Generic-Repository-for-Entity-Management.git\obj\Debug\net8.0\ref\HealthcareSystem.dll
