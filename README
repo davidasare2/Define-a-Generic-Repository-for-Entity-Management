@@ -1,0 +1,24 @@
+# Healthcare Management System
+
+![C#](https://img.shields.io/badge/C%23-.NET-blue)
+![GitHub](https://img.shields.io/github/license/yourusername/healthcare-system)
+
+A robust patient and prescription management system implemented in C# using Generics and Collections for type safety and scalability.
+
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Code Structure](#code-structure)
+- [Technical Design](#technical-design)
+- [Example Output](#example-output)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+✔ **Generic Repository Pattern** - Type-safe data management  
+✔ **Patient Records** - Store and manage patient information  
+✔ **Prescription Tracking** - Medication management with issue dates  
+✔ **Efficient Lookups** - Dictionary-based prescription grouping  
+✔ **Scalable Architecture** - Easy to extend with new entity types
